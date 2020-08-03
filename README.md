@@ -1,4 +1,4 @@
-# Exchange-Rate-Calculator
+# Foreign-Exchange-Calculator
 
 A lightweight exchange rate calculator with over 30 currencies, built mostly with fetchAPI.
 
